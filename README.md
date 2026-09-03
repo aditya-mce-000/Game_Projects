@@ -2,12 +2,12 @@
 
 Creating Games.
 
-### Games Created
+### List of Games:-
 
-1. Number Guessing Game
-2. Rock Paper Scissors
-3. Tic Tac Toe
-4. Scrabble
+1. Number Guessing Game -- Done
+2. Rock Paper Scissors -- Pending
+3. Tic Tac Toe -- Pending
+4. Scrabble -- Pending
 
 You could the particular game's README to check the details.
 
