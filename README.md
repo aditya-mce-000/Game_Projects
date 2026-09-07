@@ -9,5 +9,5 @@ Creating Games.
 3. Tic Tac Toe -- Pending
 4. Scrabble -- Pending
 
-You could the particular game's README to check the details.
+You could check a particular game's README for details.
 
